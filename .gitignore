@@ -1,0 +1,9 @@
+# CMake build output, including fetched JUCE sources
+/build*/
+/cmake-build*/
+
+# IDE and user-specific files
+/.vs/
+/.idea/
+*.user
+*.suo
